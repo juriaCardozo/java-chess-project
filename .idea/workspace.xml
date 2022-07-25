@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df66da82-ec59-4edb-8614-b821eb87d7ab" name="Changes" comment="Creating project">
-      <change afterPath="$PROJECT_DIR$/src/applications/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boardgame/Position.java" afterDir="false" />
+    <list default="true" id="df66da82-ec59-4edb-8614-b821eb87d7ab" name="Changes" comment="Class Position">
+      <change afterPath="$PROJECT_DIR$/src/boardgame/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boardgame/Piece.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658686821791</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Class Position">
+      <created>1658788085621</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658788085622</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating project" />
+    <MESSAGE value="Class Position" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class Position" />
   </component>
 </project>
