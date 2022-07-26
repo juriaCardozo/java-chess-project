@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df66da82-ec59-4edb-8614-b821eb87d7ab" name="Changes" comment="BoardException and defensive programming">
-      <change afterPath="$PROJECT_DIR$/src/chess/ChessException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chess/ChessPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
+    <list default="true" id="df66da82-ec59-4edb-8614-b821eb87d7ab" name="Changes" comment="ChessException and ChessPosition">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/applications/UI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658794777051</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ChessException and ChessPosition">
+      <created>1658843124611</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658843124611</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +152,7 @@
     <MESSAGE value="Classes ChessMatch, ChessPiece, Color and IU" />
     <MESSAGE value="Classes King and Rook" />
     <MESSAGE value="BoardException and defensive programming" />
-    <option name="LAST_COMMIT_MESSAGE" value="BoardException and defensive programming" />
+    <MESSAGE value="ChessException and ChessPosition" />
+    <option name="LAST_COMMIT_MESSAGE" value="ChessException and ChessPosition" />
   </component>
 </project>
