@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df66da82-ec59-4edb-8614-b821eb87d7ab" name="Changes" comment="Little improvement in board printing" />
+    <list default="true" id="df66da82-ec59-4edb-8614-b821eb87d7ab" name="Changes" comment="Moving pieces" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658844582724</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Moving pieces">
+      <created>1658845053720</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1658845053720</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +165,7 @@
     <MESSAGE value="BoardException and defensive programming" />
     <MESSAGE value="ChessException and ChessPosition" />
     <MESSAGE value="Little improvement in board printing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Little improvement in board printing" />
+    <MESSAGE value="Moving pieces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moving pieces" />
   </component>
 </project>
