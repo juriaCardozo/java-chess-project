@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="df66da82-ec59-4edb-8614-b821eb87d7ab" name="Changes" comment="Switching player each turn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/applications/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/applications/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/applications/UI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658960720626</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Switching player each turn">
+      <created>1658961942363</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1658961942363</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

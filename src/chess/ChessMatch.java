@@ -6,10 +6,16 @@ import boardgame.Position;
 import chess.pieces.King;
 import chess.pieces.Rook;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class ChessMatch {
     private int turn;
     private Color currentPlayer;
     private Board board;
+
+    private List<ChessPiece> piecesOnTheBoard = new ArrayList<>();
+    private List<ChessPiece> capturedPieces = new ArrayList<>();
 
     public ChessMatch(){
         board = new Board(8, 8);
