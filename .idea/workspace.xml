@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df66da82-ec59-4edb-8614-b821eb87d7ab" name="Changes" comment="Switching player each turn">
+    <list default="true" id="df66da82-ec59-4edb-8614-b821eb87d7ab" name="Changes" comment="Handling captured pieces">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/applications/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/applications/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/applications/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/applications/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658961942363</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Handling captured pieces">
+      <created>1658963366415</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1658963366415</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,6 +253,7 @@
     <MESSAGE value="Printing possible moves" />
     <MESSAGE value="Implementing possible moves of King" />
     <MESSAGE value="Switching player each turn" />
-    <option name="LAST_COMMIT_MESSAGE" value="Switching player each turn" />
+    <MESSAGE value="Handling captured pieces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Handling captured pieces" />
   </component>
 </project>
