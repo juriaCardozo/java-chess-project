@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df66da82-ec59-4edb-8614-b821eb87d7ab" name="Changes" comment="Handling captured pieces">
+    <list default="true" id="df66da82-ec59-4edb-8614-b821eb87d7ab" name="Changes" comment="Check logic">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/applications/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/applications/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/applications/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/applications/UI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessPiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessPiece.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658964084618</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Check logic">
+      <created>1658967982658</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1658967982658</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,6 +269,7 @@
     <MESSAGE value="Implementing possible moves of King" />
     <MESSAGE value="Switching player each turn" />
     <MESSAGE value="Handling captured pieces" />
-    <option name="LAST_COMMIT_MESSAGE" value="Handling captured pieces" />
+    <MESSAGE value="Check logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Check logic" />
   </component>
 </project>
