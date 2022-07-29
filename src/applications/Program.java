@@ -1,9 +1,6 @@
 package applications;
 
-import java.util.ArrayList;
-import java.util.InputMismatchException;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 import applications.UI;
 import chess.ChessException;
@@ -38,6 +35,12 @@ public class Program {
 
                 if (capturedPiece != null) {
                     captured.add(capturedPiece);
+                }
+
+                if(chessMatch.getPromoted() != null){
+                    System.out.println("Enter piece for promotion (B/N/R/Q)");
+                    String type = sc.nextLine();
+                    chessMatch.replacePromotedPiece(type);
                 }
             }
             catch (ChessException e) {
